@@ -13,7 +13,7 @@
  * @link     github/blablabla
  */
 
-$number = 2;
-$false=false;
+$number	= 2;
+$false	= false;
 echo "hola";
 ?>
