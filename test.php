@@ -14,6 +14,6 @@
  */
 
 $number = 2;
-$false = false;
+$false=false;
 echo "hola";
 ?>
